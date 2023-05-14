@@ -3,9 +3,9 @@
 
 
 # Installation
-'''
+```
 ./install.sh
-'''
+```
 
 # Developed By
 Abdulaziz AlSakhbouri
