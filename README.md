@@ -1,5 +1,5 @@
 # MEDC-Smart-Meter
- This project is a python project for Onion Omega2 to commuincate with Smart Meter and upload data to the server.
+ This project is a python project for [Onion Omega2](https://onion.io/omega2/) to commuincate with Smart Meter and upload data to the server.
 
 
 # Installation
