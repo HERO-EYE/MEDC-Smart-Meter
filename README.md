@@ -2,12 +2,12 @@
  This project is a python project for [Onion Omega2](https://onion.io/omega2/) to commuincate with Smart Meter and upload data to the server.
 
 
-# Installation
+## Installation
 ```
 ./install.sh
 ```
 
-# Developed By
-Abdulaziz AlSakhbouri
-Software Engineer
-email: sakhbouri.abdulaziz@gmail.com
+## Developed By
+### Abdulaziz AlSakhbouri
+### Software Engineer
+### email: sakhbouri.abdulaziz@gmail.com
